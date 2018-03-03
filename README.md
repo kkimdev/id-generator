@@ -1,7 +1,7 @@
 # ID Generator
 
 Desired properties:
-- Can contain arbitary binary data
+- Can contain arbitary fixed or variable length binary data
 - Tiered permissions
   - Cannot do anything
   - Can verify integrity and authenticaion
