@@ -3,9 +3,10 @@
 Desired properties:
 - Can contain arbitary binary data
 - Tiered permissions
-  - 1. Can verify integrity and authenticaion
-  - 2. Can verify integrity and authenticaion + can read data
-  - 2. Can verify integrity and authenticaion + can read data + can create id
+  - Cannot do anything
+  - Can verify integrity and authenticaion
+  - Can verify integrity and authenticaion + can read data
+  - Can verify integrity and authenticaion + can read data + can create id
   
 # Other ID formats
 - UUID https://en.wikipedia.org/wiki/Universally_unique_identifier
