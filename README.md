@@ -10,7 +10,7 @@ Desired properties:
 
 # Design notes
 1. Optional random paddng TODO: is there a better padding strategy?
-2. Apply Feistel cipher with AES or ChaCha20 TODO: consider FF1 nide
+2. Apply Feistel cipher with AES or ChaCha20 TODO: consider FF1 mode
 3. Append HMAC(SHA) output
 
 # Other ID formats
