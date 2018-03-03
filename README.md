@@ -10,7 +10,7 @@ Desired properties:
 # Design notes
 1. Optional paddng
 2. Apply Feistel cipher with AES or ChaCha20
-3. Apend HMAC output
+3. Append HMAC(Sha) output
 
 # Other ID formats
 - UUID https://en.wikipedia.org/wiki/Universally_unique_identifier
